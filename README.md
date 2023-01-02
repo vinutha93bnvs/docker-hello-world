@@ -20,4 +20,4 @@ Build + run the Docker image with port binding:
 docker build -t helloworld . && docker run -p 8080:3000 -it -t helloworld
 ```
 
-Once running app is available on: http://localhost:8080/
+Once running app is available on : http://localhost:8080/
