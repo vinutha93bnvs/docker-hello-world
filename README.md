@@ -2,7 +2,7 @@
 
 Build the Docker image:
 ```
-$docker build -t helloword .
+$docker build -t helloworld .
 ```
 
 Run the Docker image:
